@@ -3,6 +3,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Open Source Projects ( GSSoC24 Ext, WOB24, Hacktoberfest24) <br>🌱 I’m currently learning python, cloud & DevOps Tools<br>💬 Ask me about errors on your machine<br>⚡ I love Japanese & Anime.<br>🧾 3x Microsoft Certified<br>🏢 Ex-NTT Data, Ex-Concentrix (8+ years Experience)
 
+## 📓 Certifications:
+
+![ Postman ](https://github.com/KiranBaliga/KiranBaliga/blob/main/images/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-22.png)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kiran-baliga-b-ab9baa320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
