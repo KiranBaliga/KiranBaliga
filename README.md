@@ -5,7 +5,12 @@
 
 ## 📓 Certifications:
 
-|  <img src="https://github.com/KiranBaliga/KiranBaliga/blob/main/images/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-22.png" width="90"/> | <img src="https://github.com/KiranBaliga/KiranBaliga/blob/5dae803fd4e98dcd1be54b85d264b61dfbb67272/images/download.png" width="90"/> |
+|  <img src="https://github.com/KiranBaliga/KiranBaliga/blob/main/images/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-22.png" width="50"/> | <img src="https://github.com/KiranBaliga/KiranBaliga/blob/5dae803fd4e98dcd1be54b85d264b61dfbb67272/images/download.png" width="50"/> | <img src="https://github.com/KiranBaliga/KiranBaliga/blob/e9fb5843937db233d3527429b380f449a53f315f/images/download%20(1).png" width="50"/> | <img src="https://github.com/KiranBaliga/KiranBaliga/blob/e9fb5843937db233d3527429b380f449a53f315f/images/download%20(2).png" width="50"/> |
+
+| <img src="https://github.com/KiranBaliga/KiranBaliga/blob/e9fb5843937db233d3527429b380f449a53f315f/images/image_8b06e0e8-f1e5-47c6-a572-ade542752f4d20240612_135825.jpg" width="50"/> | <img src="https://github.com/KiranBaliga/KiranBaliga/blob/e9fb5843937db233d3527429b380f449a53f315f/images/image_96cfb5aa-057c-43ae-afbf-636ba0aa1c0720240612_135813.jpg" width="50"/> | <img src="https://github.com/KiranBaliga/KiranBaliga/blob/e9fb5843937db233d3527429b380f449a53f315f/images/image_fd851e88-94cf-48b8-9eea-7580145a2bb120240612_135821.jpg" width="50"/> |
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kiran-baliga-b-ab9baa320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
