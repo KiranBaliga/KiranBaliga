@@ -5,7 +5,9 @@
 
 ## 📓 Certifications:
 
-<img src="https://github.com/KiranBaliga/KiranBaliga/blob/main/images/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-22.png" width="100"/>
+<img src="https://github.com/KiranBaliga/KiranBaliga/blob/main/images/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-22.png" width="90"/>
+
+<img src="https://github.com/KiranBaliga/KiranBaliga/blob/5dae803fd4e98dcd1be54b85d264b61dfbb67272/images/download.png" width="90"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kiran-baliga-b-ab9baa320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
