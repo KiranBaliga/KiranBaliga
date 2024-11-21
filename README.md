@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Open Source Projects ( GSSoC24 Ext, WOB24, Hacktoberfest24) <br>🌱 I’m currently learning python, cloud & DevOps Tools<br>💬 Ask me about errors on your machine<br>⚡ I love Japanese & Anime.<br>🧾 3x Microsoft Certified<br>🏢 Ex-NTT Data, Ex-Concentrix (8+ years Experience)
+🔭 I’m currently working on Open Source Projects ( SWOC'25,GSSoC24 Ext, Hacktoberfest24) <br>🌱 I’m currently learning python, cloud & DevOps Tools<br>💬 Ask me about errors on your machine<br>⚡ I love Japanese & Anime.<br>🧾 3x Microsoft Certified<br>🏢 Ex-NTT Data, Ex-Concentrix (8+ years Experience)
 
 ## 📓 Certifications:
 
