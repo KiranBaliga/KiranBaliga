@@ -29,6 +29,9 @@ src="https://github.com/KiranBaliga/KiranBaliga/blob/main/images/python-essentia
   </a>
 </div>
 
+## Holopin Inventory
+
+[![An image of @kiranbaliga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kiranbaliga)](https://holopin.io/@kiranbaliga)
 
 
 ## 🌐 Socials:
