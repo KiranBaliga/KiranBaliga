@@ -10,6 +10,24 @@
 | <img src="https://github.com/KiranBaliga/KiranBaliga/blob/e9fb5843937db233d3527429b380f449a53f315f/images/image_8b06e0e8-f1e5-47c6-a572-ade542752f4d20240612_135825.jpg" width="50"/> | <img src="https://github.com/KiranBaliga/KiranBaliga/blob/e9fb5843937db233d3527429b380f449a53f315f/images/image_96cfb5aa-057c-43ae-afbf-636ba0aa1c0720240612_135813.jpg" width="50"/> | <img src="https://github.com/KiranBaliga/KiranBaliga/blob/e9fb5843937db233d3527429b380f449a53f315f/images/image_fd851e88-94cf-48b8-9eea-7580145a2bb120240612_135821.jpg" width="50"/> | <img
 src="https://github.com/KiranBaliga/KiranBaliga/blob/main/images/python-essentials-1.1.png" width="50" /> |
 
+## GSSOC(24) Badges 🪶
+<div style='display:flex; flex-wrap:wrap; justify-content:center; gap: 10px;' align='center'>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="70px" height="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="70px" height="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="70px" height="70px" />
+  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="70px" height="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="70px" height="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="70px" height="70px" />
+  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="70px" height="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="70px" height="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="70px" height="70px" />
+  </a>
+</div>
 
 
 
